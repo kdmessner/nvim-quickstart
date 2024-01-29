@@ -4,7 +4,7 @@ return {
     opts = {
         options = {
             icons_enabled = true,
-            theme = "poimandres",
+            theme = "rose-pine",
             section_separators = { left = "", right = "" }
         },
         sections = {
